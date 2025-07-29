@@ -6,6 +6,7 @@
   <supportedVersions>
     <li>1.4</li>
     <li>1.5</li>
+    <li>1.6</li>
   </supportedVersions>
   <packageId>AssassinsBro.MedievalBackstoriesNoHAR</packageId>
   <description>This mod adds over 50 new backstories for medieval pawns. This is a port of Shenanigans' mod to not use the HAR (Humanoid Alien Races) dependency.</description>
